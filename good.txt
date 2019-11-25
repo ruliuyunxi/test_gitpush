@@ -2,3 +2,4 @@ ssssssssso
 ddddddddddd:
 ffffffffff
 gggggggggg
+这是做了ssh免密之后，进行推送测试》！！
